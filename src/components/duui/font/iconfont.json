@@ -1,0 +1,58 @@
+{
+  "id": "3275898",
+  "name": "DUUI",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "DUUI Icons",
+  "glyphs": [
+    {
+      "icon_id": "29925",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "5810218",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e7f1",
+      "unicode_decimal": 59377
+    },
+    {
+      "icon_id": "32477",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "46296",
+      "name": "Search",
+      "font_class": "search",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "576404",
+      "name": "加号",
+      "font_class": "add",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "576578",
+      "name": "iconfont-icon06",
+      "font_class": "confirm",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "749813",
+      "name": "iconfont-phone",
+      "font_class": "tel",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}

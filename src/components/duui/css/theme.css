@@ -1,7 +1,9 @@
 
 *[class^=du-] {
-    
-    --du-base-font-size: 14px;
+
+    --du-font-size-base: 14px;
+    --du-font-size-small: 10px;
+    --du-font-size-large: 18px;
 
     --du-color-primary: #1a94bc;
     --du-color-warning: #e2d849;

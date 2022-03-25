@@ -1,0 +1,9 @@
+@import url(./theme.css);
+
+*[class^=du-] {
+    user-select: none;
+    box-sizing: border-box;
+}
+*[class^=du-] * {
+    box-sizing: inherit;
+}
