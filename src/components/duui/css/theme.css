@@ -1,0 +1,18 @@
+
+*[class^=du-] {
+    
+    --du-base-font-size: 14px;
+
+    --du-color-primary: #1a94bc;
+    --du-color-warning: #e2d849;
+    --du-color-success: #5bae23;
+    --du-color-cancle: #5e665b;
+    --du-color-danger: #a61b29;
+    --du-color-white: #fff;
+    --du-color-regular: #606266;
+
+    --du-border-width: 1px;
+    --du-border-style: solid;
+    --du-border-color: #dcdfe6;
+    --du-border: var(--du-border-width) var(--du-border-style) var(--du-border-color);
+}
